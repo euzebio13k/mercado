@@ -1,0 +1,9 @@
+{
+    "name":"ifto/mercado",
+    "autoload":{
+
+        "psr-4":{
+            "App\\":"app/"
+        }
+    }
+}
